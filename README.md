@@ -3,3 +3,6 @@
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/>
 </div>
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7D1E?style=flat-square&logo=JavaScript&logoColor=white" alt="javascript/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=moonpower&style=flat-square&color=blue" alt=""/>
+</div>
