@@ -14,6 +14,10 @@
   <img src="https://komarev.com/ghpvc/?username=singilwon&style=flat-square&color=blue" alt=""/>
 </div>
 
+<div align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=singilwon)](https://github.com/singilwon/github-readme-stats)
+</div>
 
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singilwon)](https://github.com/singilwon/github-readme-stats)
+</div>
