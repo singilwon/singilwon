@@ -5,7 +5,6 @@
 </div>
 <div>
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7D1E?style=flat-square&logo=JavaScript&logoColor=white" alt="javascript/>
-    <img src="https://img.shields.io/badge/JAVASCRIPT-F7D1E?style=flat-square&logo=JavaScript&logoColor=white" alt="javascript/>
 </div>
 
   
