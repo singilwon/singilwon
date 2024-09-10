@@ -2,9 +2,10 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/>
+</div>
+<div>
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7D1E?style=flat-square&logo=JavaScript&logoColor=white" alt="javascript/>
 </div>
-
 
   
 <div align="center">
