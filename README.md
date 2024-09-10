@@ -8,4 +8,4 @@
 </div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=singilwon)](https://github.com/singilwon/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singilwon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singilwon)](https://github.com/singilwon/github-readme-stats)
