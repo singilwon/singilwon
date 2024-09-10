@@ -1,7 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singilwon)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=singilwon)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=singilwon&hide=contribs,prs&show_icons=true&theme=graywhite)
-<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-[![GitHub Streak](https://streak-stats.demolab.com?user=singilwon&theme=dark&locale=ko)](https://git.io/streak-stats)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&fontAlign=50&fontAlignY=30&text=Youngdongbot&desc=developer&descAlign=70&descAlignY=55&height=200&fontSize=60&fontColor=ffffff)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/>
+</div>
