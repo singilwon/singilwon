@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&fontAlign=50&fontAlignY=30&text=GET&desc=out&descAlign=70&descAlignY=55&height=200&fontSize=60&fontColor=ffffff)
 
+![Image](https://github.com/user-attachments/assets/75760edc-3a19-4507-a67e-48ef37b1d960)
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/>
-  ![Image](https://github.com/user-attachments/assets/75760edc-3a19-4507-a67e-48ef37b1d960)
+  
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
