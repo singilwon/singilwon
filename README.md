@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,40:7a0000,80:000000&text=Joowon%20Song&fontColor=ffffff&fontSize=60&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Real-time%20Web%20Applications&descAlignY=60"/>
+<img height="1024" alt="Image" src="https://github.com/user-attachments/assets/e8d88cf4-7b4b-4d16-8063-161eca656180" />
 </p>
 
 <p align="center">
