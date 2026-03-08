@@ -1,93 +1,79 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,40:4a0000,80:000000&text=JOOWON%20SONG&fontColor=ffffff&fontSize=60&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Real-time%20Web%20Experiences&descSize=18&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:111111,100:8B0000&text=Joowon%20Song&fontColor=ffffff&fontSize=50"/>
 </p>
 
-<p align="center">
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="230"/>
-</p>
+<h3 align="center">
+Frontend Developer
+</h3>
 
 <p align="center">
-<i>Designing interactive web experiences in the dark.</i>
+Interested in building interactive web applications and real-time systems.
 </p>
 
 ---
 
-# 🕸 About
+# 🧑‍💻 About Me
 
-Frontend developer interested in building **interactive and real-time web applications**.
-
-I enjoy:
-
-- building immersive UI
-- designing clean frontend architecture
-- refactoring complex codebases
-- creating responsive user experiences
+- Frontend developer focusing on **React / Next.js**
+- Interested in **real-time interaction and scalable UI**
+- Enjoy improving code quality through **refactoring**
 
 ---
 
-# 🕷 Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,git,github"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,git"/>
 
 </p>
 
 ---
 
-# 🌃 Featured Project
+# 🚀 Projects
 
-### 🕸 BuzzerBidder
+## BuzzerBidder
 
 Real-time auction platform built with **Next.js**
 
-Key features:
+Main focus:
 
-- real-time bidding interaction
-- event-based UI updates
-- responsive auction interface
-
-Focus:
-
-- frontend architecture
-- UI interaction design
-- codebase refactoring
+- real-time bidding experience
+- event driven UI interaction
+- improved component architecture through refactoring
 
 ---
 
-### 📰 News Curation App
+## News Curation App
 
-News browsing platform with:
+News platform providing:
 
-- category filtering
-- summary focused UI
+- categorized browsing
+- article summaries
 - bookmark system
-- personalized browsing flow
+- user focused reading experience
 
 ---
 
-# 📊 GitHub Activity
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact"/>
 
 </p>
 
 ---
 
-# 🕷 Contribution Graph
+# 📫 Contact
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night&hide_border=true"/>
-
-</p>
+Email  
+your-email@example.com
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,50:4a0000,100:000000"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111111,100:8B0000"/>
 </p>
