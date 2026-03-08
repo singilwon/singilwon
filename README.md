@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Singilwon&section=header&fontColor=666666&fontAlign=50"/>
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Singilwon&section=header&fontColor=666666&fontAlign=50"/>
 </div>
+
+
+
 
 <div align="center">
 
