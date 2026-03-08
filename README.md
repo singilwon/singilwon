@@ -1,22 +1,31 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:111111,100:8B0000&text=Joowon%20Song&fontColor=ffffff&fontSize=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,40:7a0000,80:000000&text=Joowon%20Song&fontColor=ffffff&fontSize=60&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Real-time%20Web%20Applications&descAlignY=60"/>
 </p>
 
-<h3 align="center">
-Frontend Developer
-</h3>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=E53935&center=true&vCenter=true&width=800&lines=Building+interactive+web+experiences;Focused+on+React+and+Next.js;Refactoring+projects+into+clean+architecture"/>
+</p>
 
 <p align="center">
-Interested in building interactive web applications and real-time systems.
+<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="220"/>
+</p>
+
+<p align="center">
+<i>"Designing fast, interactive, and immersive web experiences."</i>
 </p>
 
 ---
 
-# 🧑‍💻 About Me
+# 🕸 About Me
 
-- Frontend developer focusing on **React / Next.js**
-- Interested in **real-time interaction and scalable UI**
-- Enjoy improving code quality through **refactoring**
+Frontend developer who enjoys building **interactive web applications** and **real-time user experiences**.
+
+Interested in:
+
+- scalable frontend architecture  
+- real-time UI interaction  
+- clean component design  
+- refactoring and maintainable code  
 
 ---
 
@@ -24,34 +33,40 @@ Interested in building interactive web applications and real-time systems.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,git"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,git,github,html,css"/>
 
 </p>
 
 ---
 
-# 🚀 Projects
+# 🚀 Featured Projects
 
-## BuzzerBidder
+### 🕸 BuzzerBidder
 
 Real-time auction platform built with **Next.js**
 
-Main focus:
+Key Features
 
-- real-time bidding experience
-- event driven UI interaction
-- improved component architecture through refactoring
+- buzzer based bidding interaction  
+- real-time event handling  
+- interactive auction UI  
+
+Focus
+
+- frontend architecture  
+- UI interaction design  
+- project refactoring  
 
 ---
 
-## News Curation App
+### 📰 News Curation App
 
-News platform providing:
+News browsing platform with
 
-- categorized browsing
-- article summaries
-- bookmark system
-- user focused reading experience
+- category based filtering  
+- article summary view  
+- bookmark system  
+- personalized reading flow  
 
 ---
 
@@ -59,9 +74,29 @@ News platform providing:
 
 <p align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
@@ -69,11 +104,20 @@ News platform providing:
 
 # 📫 Contact
 
-Email  
-your-email@example.com
+<p align="center">
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/github-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111111,100:8B0000"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,40:7a0000,80:000000"/>
 </p>
