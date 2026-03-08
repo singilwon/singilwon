@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&fontAlign=50&fontAlignY=30&text=GET&desc=out&descAlign=70&descAlignY=55&height=200&fontSize=60&fontColor=ffffff)
-
-![Image](https://github.com/user-attachments/assets/75760edc-3a19-4507-a67e-48ef37b1d960)
+https://capsule-render.vercel.app/api?type=blur&height=400&color=gradient&text=Singilwon&section=header&reversal=false&textBg=false&fontColor=666666&fontAlign=50
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/>
