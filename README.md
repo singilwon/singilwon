@@ -33,7 +33,7 @@ Interested in:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,git,github,html,css"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,git,github,html,css"/>
 
 </p>
 
@@ -74,9 +74,9 @@ News browsing platform with
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=singilwon&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singilwon&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -86,7 +86,7 @@ News browsing platform with
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=singilwon&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -96,7 +96,7 @@ News browsing platform with
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/singilwon/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
@@ -106,11 +106,11 @@ News browsing platform with
 
 <p align="center">
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:joowoni98@gmail.com">
 <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/singilwon">
 <img src="https://img.shields.io/badge/github-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
