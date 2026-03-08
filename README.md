@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=blur&height=400&color=gradient&text=Singilwon&section=header&reversal=false&textBg=false&fontColor=666666&fontAlign=50
+[https://capsule-render.vercel.app/api?type=blur&height=400&color=gradient&text=Singilwon&section=header&reversal=false&textBg=false&fontColor=666666&fontAlign=50]
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/>
