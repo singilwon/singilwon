@@ -13,7 +13,6 @@
 ---
 
 ## 🕸 About Me
-
 <p>
 사용자와 가장 가까운 화면에서 문제를 발견하고,<br/>
 상태 관리와 컴포넌트 구조를 통해 더 나은 흐름을 만드는 데 관심이 있습니다.
@@ -26,7 +25,6 @@
 ---
 
 ## 🛠 Skills
-
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,supabase,git,github,figma,vercel,html,css" />
 </p>
@@ -42,7 +40,6 @@
 ---
 
 ## 🚀 Featured Projects
-
 ### ⚡ BuzzerBidder
 
 Next.js 기반 경매형 중고 거래 서비스입니다.
@@ -64,7 +61,6 @@ React 기반 밸런스 게임 커뮤니티 서비스입니다.
 ---
 
 ## 📫 Contact
-
 <p>
 <a href="mailto:joowoni98@gmail.com">
 <img src="https://img.shields.io/badge/Email-7A1E2C?style=flat-square&logo=gmail&logoColor=white"/>
@@ -74,8 +70,6 @@ React 기반 밸런스 게임 커뮤니티 서비스입니다.
 <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white"/>
 </a>
 </p>
-
----
 
 <p align="center">
 <img width="1524" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:1A0B10,45:7A1E2C,100:1A0B10"/>
