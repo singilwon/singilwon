@@ -2,8 +2,6 @@
 <img width="1524" height="350" alt="Profile Banner" src="https://github.com/user-attachments/assets/e8d88cf4-7b4b-4d16-8063-161eca656180" />
 </p>
 
-<h2 align="center">Frontend Developer 송주원</h2>
-
 <p align="center">
 사용자 흐름을 이해하고, 기능 구현 이후의 구조와 유지보수성까지 함께 고민하는 프론트엔드 개발자입니다.
 </p>
@@ -89,5 +87,5 @@ React 기반 밸런스 게임 커뮤니티 서비스입니다.
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:1A0B10,45:7A1E2C,100:1A0B10"/>
+<img width="1524" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:1A0B10,45:7A1E2C,100:1A0B10"/>
 </p>
