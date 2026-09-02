@@ -63,15 +63,6 @@ React 기반 밸런스 게임 커뮤니티 서비스입니다.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=singilwon&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singilwon&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 📫 Contact
 
 <p>
