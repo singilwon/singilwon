@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="220"/>
-</p>
-
-<p align="center">
 <i>"사용자와 가장 가까운 화면에서 더 나은 경험을 만드는 개발자를 지향합니다."</i>
 </p>
 
